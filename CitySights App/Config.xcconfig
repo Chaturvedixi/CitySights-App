@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  CitySights App
+//
+//  Created by Ansh chaturvedi on 10/03/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = YmB1iEUnGGXoiLs833144jdcuQYqdrZ34oWdqerOlfhTwWEPoBiXRPZSzh6VGI5rgnLy5c1NDxE8Ok0fQPhhGXrYFssNITSKothMFRge8zX_k6pwVtAKzj7XYsoIaHYx
